@@ -1,0 +1,92 @@
+#vis1.vega-embed {
+	width: 100%;
+	display: flex;
+}
+
+#vis1.vega-embed details,
+#vis1.vega-embed details summary {
+	position: relative;
+}
+
+#vis2.vega-embed {
+	width: 100%;
+	display: flex;
+}
+
+#vis2.vega-embed details,
+#vis2.vega-embed details summary {
+	position: relative;
+}
+
+#vis3.vega-embed {
+	width: 100%;
+	display: flex;
+}
+
+#vis3.vega-embed details,
+#vis3.vega-embed details summary {
+	position: relative;
+}
+
+#vis4.vega-embed {
+	width: 100%;
+	display: flex;
+}
+
+#vis4.vega-embed details,
+#vis4.vega-embed details summary {
+	position: relative;
+}
+
+#vis5.vega-embed {
+	width: 100%;
+	display: flex;
+}
+
+#vis5.vega-embed details,
+#vis5.vega-embed details summary {
+	position: relative;
+}
+
+p {
+	max-width: 800px;
+	margin: auto;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#senate_visual {
+	max-width: 800px;
+	margin: auto;
+}
+
+#house_visual {
+	max-width: 800px;
+	margin: auto;
+}
+
+#party_visual {
+	max-width: 800px;
+	margin: auto;
+}
+
+#gender_visuals {
+	max-width: 800px;
+	margin: auto;
+}
+
+#age_visuals {
+	max-width: 800px;
+	margin: auto;
+}
+
+#d3_text {
+	width: 40%;
+	float: left;
+}
+
+#d3_vis {
+	margin-left: 40%;
+}
